@@ -15,6 +15,10 @@ ENV/
 *.log
 transcribing_log.txt
 
+# Test caches
+.pytest_cache/
+.pytest-tmp/
+
 # OS
 .DS_Store
 Thumbs.db
