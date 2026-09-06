@@ -1,4 +1,3 @@
 openai-whisper
 pydub
-requests
-huggingface_hub
+pytest
